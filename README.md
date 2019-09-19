@@ -4,9 +4,15 @@
 
 感觉项目不错的点个star，项目持续更新，如有疑问可联系QQ群：839084842
 
+希望可以提出issue和pr
+
 前端传送门：[https://github.com/bigbaser/Tcloud](https://github.com/bigbaser/Tcloud)
 
+后端传送门：[https://github.com/bigbaser/TcloudServer](https://github.com/bigbaser/TcloudServer)
+
 线上demo地址：[http://tcloud-demo.ywopt.com/\#/login](http://tcloud-demo.ywopt.com/#/login) （账号：admin 密码：123456）
+
+文档地址：[https://github.com/vissssa/TcloudDoc](https://github.com/vissssa/TcloudDoc)
 
 ## 一、什么是Tcloud?
 
